@@ -1,7 +1,9 @@
 <?php
 
+
 namespace App\Http\Controllers;
 
+App\Todo
 use Illuminate\Http\Request;
 
 class TodosController extends Controller
